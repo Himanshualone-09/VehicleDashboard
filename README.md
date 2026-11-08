@@ -30,7 +30,7 @@ updates the dashboard ui reactively using kotlin flow.
 
 ## Architecture
 
-The project follows below mentioned architecture:
+The project follows below-mentioned architecture:
 
 - Data: Provides simulated vehicle data, handles data mapping and repository implementation.
 - Domain: Contains the model, repository and use case.
